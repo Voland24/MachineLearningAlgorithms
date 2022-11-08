@@ -13,3 +13,4 @@ pip-selfcheck.json
 svm_env/
 pca_env/
 k_cluster_env/
+lda_env/
